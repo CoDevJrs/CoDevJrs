@@ -1,10 +1,12 @@
+<!-- @format -->
+
 <h2 align="center">Hola 👋, soy Joselito Rodriguez Sarmiento</h2>
 <!-- <h3 align="center">Desarrollador Web</h3> -->
 
 ###
 
 <div align="center">
-  <img height="150" src="https://placehold.co/800x150/orange/white?text=CoDevJRS"  />
+  <img src="https://raw.githubusercontent.com/CoDevJRS/CoDevJRS/main/logo.png" alt="CoDevJRS" width="800" />
 </div>
 
 ###
